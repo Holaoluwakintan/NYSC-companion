@@ -1,0 +1,2116 @@
+{
+ "camps": [
+  {
+   "code": "AB",
+   "state": "Abia",
+   "name": "NYSC Permanent Orientation Camp",
+   "town": "Umunna, Bende LGA",
+   "address": "NYSC Permanent Orientation Camp, Umunna, Bende Local Government Area, Abia State",
+   "lat": 5.7231528,
+   "lon": 7.641434,
+   "geocoded": false,
+   "mapUrl": "https://maps.app.goo.gl/9FWV8RXxHDL2ACRS7",
+   "directions": "The camp is roughly a 45-minute drive from Umuahia, Abia's state capital.",
+   "expect": [
+    {
+     "text": "Camp is about 45 minutes by road from Umuahia, the state capital.",
+     "src": {
+      "label": "Intercity",
+      "url": "https://intercity.ng/blog/nysc-orientation-camp-locations-nigeria"
+     },
+     "verified": false
+    },
+    {
+     "text": "A second phase of camp retrofitting is planned for hostels, staff quarters, and a new parade ground.",
+     "src": {
+      "label": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/ssouth-east/888266-otti-assures-1584-nysc-members-of-safe-conducive-camp-environment.html"
+     },
+     "verified": true
+    },
+    {
+     "text": "Corps lodges are being renovated and camp feeding has been increased, per the state NYSC coordinator.",
+     "src": {
+      "label": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/ssouth-east/888266-otti-assures-1584-nysc-members-of-safe-conducive-camp-environment.html"
+     },
+     "verified": true
+    }
+   ],
+   "moved": null,
+   "verified": {
+    "name": true,
+    "address": true,
+    "map": true,
+    "directions": false
+   },
+   "sources": [
+    {
+     "label": "NYSC: Addresses of NYSC Orientation Camps",
+     "url": "https://www.nysc.gov.ng/camps.html"
+    },
+    {
+     "label": "Punch: full list of NYSC camp addresses",
+     "url": "https://punchng.com/full-list-nysc-orientation-camp-addresses-across-nigeria/"
+    },
+    {
+     "label": "Intercity",
+     "url": "https://intercity.ng/blog/nysc-orientation-camp-locations-nigeria"
+    }
+   ],
+   "lastChecked": "2026-10-07",
+   "officialText": "NYSC Permanent Orientation Camp, Umunna, Bende Local Government Area, Abia State."
+  },
+  {
+   "code": "AD",
+   "state": "Adamawa",
+   "name": "NYSC Permanent Orientation Camp",
+   "town": "Damare, Girei LGA",
+   "address": "NYSC Permanent Orientation Camp, Lapondo Road, Damare, Girei LGA, Adamawa State",
+   "lat": 9.3199661,
+   "lon": 12.4427296,
+   "geocoded": false,
+   "mapUrl": "https://maps.app.goo.gl/T8DvZYVFjXG6DUP1A",
+   "directions": null,
+   "expect": [],
+   "moved": null,
+   "verified": {
+    "name": true,
+    "address": true,
+    "map": true,
+    "directions": false
+   },
+   "sources": [
+    {
+     "label": "NYSC: Addresses of NYSC Orientation Camps",
+     "url": "https://www.nysc.gov.ng/camps.html"
+    },
+    {
+     "label": "Punch: full list of NYSC camp addresses",
+     "url": "https://punchng.com/full-list-nysc-orientation-camp-addresses-across-nigeria/"
+    }
+   ],
+   "lastChecked": "2026-10-07",
+   "officialText": "NYSC Permanent Orientation Camp, Lapondo Road, Damare, Girei LGA, Adamawa State."
+  },
+  {
+   "code": "AK",
+   "state": "Akwa Ibom",
+   "name": "NYSC Permanent Orientation Camp",
+   "town": "Ikot Itie Udung, Nsit Atai LGA",
+   "address": "NYSC Permanent Orientation Camp, Ikot Itie Udung, Nsit Atai Local Government Area, Akwa Ibom State",
+   "lat": 4.8752586,
+   "lon": 8.0541587,
+   "geocoded": false,
+   "mapUrl": "https://maps.app.goo.gl/2dKZ4RJFCSQ9pUq88",
+   "directions": "From Uyo, the state capital, the camp is roughly a 40-minute drive away.",
+   "expect": [
+    {
+     "text": "The camp is about 40 minutes drive from Uyo, the state capital.",
+     "src": {
+      "label": "Intercity",
+      "url": "https://intercity.ng/blog/nysc-orientation-camp-locations-nigeria"
+     },
+     "verified": false
+    }
+   ],
+   "moved": null,
+   "verified": {
+    "name": true,
+    "address": true,
+    "map": true,
+    "directions": false
+   },
+   "sources": [
+    {
+     "label": "NYSC: Addresses of NYSC Orientation Camps",
+     "url": "https://www.nysc.gov.ng/camps.html"
+    },
+    {
+     "label": "Punch: full list of NYSC camp addresses",
+     "url": "https://punchng.com/full-list-nysc-orientation-camp-addresses-across-nigeria/"
+    },
+    {
+     "label": "Intercity",
+     "url": "https://intercity.ng/blog/nysc-orientation-camp-locations-nigeria"
+    }
+   ],
+   "lastChecked": "2026-10-07",
+   "officialText": "NYSC Permanent Orientation Camp, Ikot Itie Udung, Nsit Atai Local Government Area, Akwa Ibom State."
+  },
+  {
+   "code": "AN",
+   "state": "Anambra",
+   "name": "NYSC Permanent Orientation Camp",
+   "town": "Umuawulu/Mbaukwu, Awka South LGA",
+   "address": "NYSC Permanent Orientation Camp, Umuawulu/Mbaukwu Awka South Local Government Area, Anambra State",
+   "lat": 6.1351177,
+   "lon": 7.0938709,
+   "geocoded": false,
+   "mapUrl": "https://maps.app.goo.gl/wAfCsqjC1xLitkxw7",
+   "directions": null,
+   "expect": [
+    {
+     "text": "Camp can accommodate over 3,000 corps members.",
+     "src": {
+      "label": "Nigerian Heritage",
+      "url": "https://www.nigerianheritage.ng/tour-detail.php?id=1019"
+     },
+     "verified": false
+    },
+    {
+     "text": "Camp has a Mammy Market where corps members buy extra food and basic items.",
+     "src": {
+      "label": "Nigerian Heritage",
+      "url": "https://www.nigerianheritage.ng/tour-detail.php?id=1019"
+     },
+     "verified": false
+    },
+    {
+     "text": "State made efforts on cleanliness, fumigation, mattresses, power and water supply, and security.",
+     "src": {
+      "label": "Nigerian Heritage",
+      "url": "https://www.nigerianheritage.ng/tour-detail.php?id=1019"
+     },
+     "verified": false
+    }
+   ],
+   "moved": null,
+   "verified": {
+    "name": true,
+    "address": true,
+    "map": true,
+    "directions": false
+   },
+   "sources": [
+    {
+     "label": "NYSC: Addresses of NYSC Orientation Camps",
+     "url": "https://www.nysc.gov.ng/camps.html"
+    },
+    {
+     "label": "Punch: full list of NYSC camp addresses",
+     "url": "https://punchng.com/full-list-nysc-orientation-camp-addresses-across-nigeria/"
+    }
+   ],
+   "lastChecked": "2026-10-07",
+   "officialText": "NYSC Permanent Orientation Camp, Umuawulu/Mbaukwu Awka South Local Government Area, Anambra State."
+  },
+  {
+   "code": "BA",
+   "state": "Bauchi",
+   "name": "NYSC Permanent Orientation Camp",
+   "town": "Wailo, Ganjuwa LGA",
+   "address": "NYSC Permanent Orientation camp, KM 60 Wailo, Ganjuwa Local Government Council, Bauchi State",
+   "lat": 10.6779703,
+   "lon": 10.2115835,
+   "geocoded": false,
+   "mapUrl": "https://maps.app.goo.gl/tJBRj79pHPHgoyeh8",
+   "directions": null,
+   "expect": [
+    {
+     "text": "For 2024 Batch B Stream II, camp moved temporarily to Adamu Tafawa Balewa College of Education, Kangere, due to Wailo camp renovation.",
+     "src": {
+      "label": "Punch",
+      "url": "https://punchng.com/bauchi-nysc-relocates-orientation-camp-over-renovation/"
+     },
+     "verified": true
+    }
+   ],
+   "moved": null,
+   "verified": {
+    "name": true,
+    "address": true,
+    "map": true,
+    "directions": false
+   },
+   "sources": [
+    {
+     "label": "NYSC: Addresses of NYSC Orientation Camps",
+     "url": "https://www.nysc.gov.ng/camps.html"
+    },
+    {
+     "label": "Punch: full list of NYSC camp addresses",
+     "url": "https://punchng.com/full-list-nysc-orientation-camp-addresses-across-nigeria/"
+    }
+   ],
+   "lastChecked": "2026-10-07",
+   "officialText": "NYSC Permanent Orientation camp, KM 60 Wailo, Ganjuwa Local Government Council, Bauchi State."
+  },
+  {
+   "code": "BY",
+   "state": "Bayelsa",
+   "name": "NYSC Permanent Orientation Camp",
+   "town": "Boro Town, Kolokuma/Opokuma LGA",
+   "address": "NYSC Permanent Orientation Camp, Boro Town, Kolokuma/Opokuma Local Government Area, Bayelsa State",
+   "lat": 5.0844871,
+   "lon": 6.2803482,
+   "geocoded": false,
+   "mapUrl": "https://maps.app.goo.gl/4VXTRcF5mNWD4ZzH7",
+   "directions": null,
+   "expect": [],
+   "moved": null,
+   "verified": {
+    "name": true,
+    "address": true,
+    "map": true,
+    "directions": false
+   },
+   "sources": [
+    {
+     "label": "NYSC: Addresses of NYSC Orientation Camps",
+     "url": "https://www.nysc.gov.ng/camps.html"
+    },
+    {
+     "label": "Punch: full list of NYSC camp addresses",
+     "url": "https://punchng.com/full-list-nysc-orientation-camp-addresses-across-nigeria/"
+    }
+   ],
+   "lastChecked": "2026-10-07",
+   "officialText": "NYSC Permanent Orientation Camp, Boro Town, Kolokuma/Opokuma Local Government Area, Bayelsa State."
+  },
+  {
+   "code": "BN",
+   "state": "Benue",
+   "name": "NYSC Permanent Orientation Camp",
+   "town": "Wannune, Tarka LGA",
+   "address": "NYSC Permanent Orientation Camp, Wannune, Tarka Local Government Area, Kilometer 35 Makurdi Gboko Road, Benue State",
+   "lat": 7.5882801,
+   "lon": 8.8736182,
+   "geocoded": false,
+   "mapUrl": "https://maps.app.goo.gl/51Tdfx29TwGtdLkdA",
+   "directions": "The camp is located along the Makurdi–Gboko road.",
+   "expect": [],
+   "moved": null,
+   "verified": {
+    "name": true,
+    "address": true,
+    "map": true,
+    "directions": false
+   },
+   "sources": [
+    {
+     "label": "NYSC: Addresses of NYSC Orientation Camps",
+     "url": "https://www.nysc.gov.ng/camps.html"
+    },
+    {
+     "label": "Punch: full list of NYSC camp addresses",
+     "url": "https://punchng.com/full-list-nysc-orientation-camp-addresses-across-nigeria/"
+    },
+    {
+     "label": "Intercity",
+     "url": "https://intercity.ng/blog/nysc-orientation-camp-locations-nigeria"
+    }
+   ],
+   "lastChecked": "2026-10-07",
+   "officialText": "NYSC Permanent Orientation Camp, Wannune, Tarka Local Government Area, Kilometer 35 Makurdi Gboko Road, Benue State."
+  },
+  {
+   "code": "BO",
+   "state": "Borno",
+   "name": "Mustapha Umar El-Kanemi Arabic Teachers College (camp venue)",
+   "town": "Maiduguri",
+   "address": "Mustapha Umar El-Kanemi Arabic Teachers College, Maiduguri, Borno state",
+   "lat": 11.8282013,
+   "lon": 13.1210051,
+   "geocoded": false,
+   "mapUrl": "https://maps.app.goo.gl/VLdMY2ey4NwpfMkNA",
+   "directions": null,
+   "expect": [
+    {
+     "text": "Borno has experienced insurgent activity, which affected camp operations and safety planning.",
+     "src": {
+      "label": "Peoples Gazette",
+      "url": "https://gazettengr.com/borno-corpers-barred-from-orientation-camp/"
+     },
+     "verified": false
+    }
+   ],
+   "moved": "The NYSC lists a college in Maiduguri as the Borno camp. Confirm the venue on your call-up letter.",
+   "verified": {
+    "name": true,
+    "address": true,
+    "map": true,
+    "directions": false
+   },
+   "sources": [
+    {
+     "label": "NYSC: Addresses of NYSC Orientation Camps",
+     "url": "https://www.nysc.gov.ng/camps.html"
+    },
+    {
+     "label": "Punch: full list of NYSC camp addresses",
+     "url": "https://punchng.com/full-list-nysc-orientation-camp-addresses-across-nigeria/"
+    }
+   ],
+   "lastChecked": "2026-10-07",
+   "officialText": "Mustapha Umar El-Kanemi Arabic Teachers College, Maiduguri, Borno state."
+  },
+  {
+   "code": "CR",
+   "state": "Cross River",
+   "name": "NYSC Permanent Orientation Camp",
+   "town": "Ogada, Obubra LGA",
+   "address": "NYSC Permanent Orientation Camp, Ogada I, Obubra Local Government Area, Cross River State",
+   "lat": 6.0535253,
+   "lon": 8.3455653,
+   "geocoded": false,
+   "mapUrl": "https://maps.app.goo.gl/e1kNfjBRVSWKLMzT8",
+   "directions": null,
+   "expect": [],
+   "moved": null,
+   "verified": {
+    "name": true,
+    "address": true,
+    "map": true,
+    "directions": false
+   },
+   "sources": [
+    {
+     "label": "NYSC: Addresses of NYSC Orientation Camps",
+     "url": "https://www.nysc.gov.ng/camps.html"
+    }
+   ],
+   "lastChecked": "2026-10-07",
+   "officialText": "NYSC Permanent Orientation Camp, Ogada I, Obubra Local Government Area, Cross River State."
+  },
+  {
+   "code": "DT",
+   "state": "Delta",
+   "name": "NYSC Permanent Orientation Camp Former Martins TTC",
+   "town": "Issele-Uku, Aniocha North LGA",
+   "address": "NYSC Permanent Orientation Camp Former Martins TTC, Issele-Uku, Aniocha North L.G.A. Delta State",
+   "lat": 6.321792,
+   "lon": 6.4633858,
+   "geocoded": false,
+   "mapUrl": "https://maps.app.goo.gl/HaJNNajDzqhc4M2e6",
+   "directions": null,
+   "expect": [
+    {
+     "text": "The camp's multipurpose hall has been renovated with support from the Delta State Government.",
+     "src": {
+      "label": "NYSC state page (Facebook)",
+      "url": "https://www.facebook.com/p/Nysc-Delta-100011359987411/"
+     },
+     "verified": true
+    }
+   ],
+   "moved": null,
+   "verified": {
+    "name": true,
+    "address": true,
+    "map": true,
+    "directions": false
+   },
+   "sources": [
+    {
+     "label": "NYSC: Addresses of NYSC Orientation Camps",
+     "url": "https://www.nysc.gov.ng/camps.html"
+    },
+    {
+     "label": "Punch: full list of NYSC camp addresses",
+     "url": "https://punchng.com/full-list-nysc-orientation-camp-addresses-across-nigeria/"
+    }
+   ],
+   "lastChecked": "2026-10-07",
+   "officialText": "NYSC Permanent Orientation Camp Former Martins TTC, Issele-Uku, Aniocha North L.G.A. Delta State."
+  },
+  {
+   "code": "EB",
+   "state": "Ebonyi",
+   "name": "NYSC Permanent Orientation Camp",
+   "town": "Macgregor College, Afikpo",
+   "address": "NYSC Permanent Orientation Camp, Macgregor College, Afikpo Local Government Area, Ebonyi State",
+   "lat": 5.8900967,
+   "lon": 7.9132392,
+   "geocoded": false,
+   "mapUrl": "https://maps.app.goo.gl/czp4bQzo21jSsfcn9",
+   "directions": null,
+   "expect": [],
+   "moved": null,
+   "verified": {
+    "name": true,
+    "address": true,
+    "map": true,
+    "directions": false
+   },
+   "sources": [
+    {
+     "label": "NYSC: Addresses of NYSC Orientation Camps",
+     "url": "https://www.nysc.gov.ng/camps.html"
+    },
+    {
+     "label": "Punch: full list of NYSC camp addresses",
+     "url": "https://punchng.com/full-list-nysc-orientation-camp-addresses-across-nigeria/"
+    }
+   ],
+   "lastChecked": "2026-10-07",
+   "officialText": "NYSC Permanent Orientation Camp, Macgregor College, Afikpo Local Government Area, Ebonyi State."
+  },
+  {
+   "code": "ED",
+   "state": "Edo",
+   "name": "NYSC permanent orientation camp. Opposite Igbinedion University",
+   "town": "Okada, Ovia North East LGA",
+   "address": "NYSC permanent orientation camp. Opposite Igbinedion University, Okada, ovia North East Local Government Edo state",
+   "lat": 6.7371827,
+   "lon": 5.3976039,
+   "geocoded": false,
+   "mapUrl": "https://maps.app.goo.gl/XrqBEj92XnVvTcDj9",
+   "directions": "From Benin City, take a bus to Okada, then a cab or bike directly to the orientation camp.",
+   "expect": [],
+   "moved": null,
+   "verified": {
+    "name": true,
+    "address": true,
+    "map": true,
+    "directions": false
+   },
+   "sources": [
+    {
+     "label": "NYSC: Addresses of NYSC Orientation Camps",
+     "url": "https://www.nysc.gov.ng/camps.html"
+    },
+    {
+     "label": "allsubjectsmadesimple.com.ng",
+     "url": "https://www.allsubjectsmadesimple.com.ng/2024/09/nysc-state-codes-addresses-and-directions-to-all-orientation-camps-in-nigeria.html"
+    }
+   ],
+   "lastChecked": "2026-10-07",
+   "officialText": "NYSC permanent orientation camp. Opposite Igbinedion University, Okada, ovia North East Local Government Edo state."
+  },
+  {
+   "code": "EK",
+   "state": "Ekiti",
+   "name": "NYSC Permanent Orientation Camp",
+   "town": "Ise-Orun/Emure LGA",
+   "address": "NYSC Permanent Orientation Camp, Ise-Orun/Emure Local Government Area, Ekiti State",
+   "lat": 7.4496747,
+   "lon": 5.4412296,
+   "geocoded": false,
+   "mapUrl": "https://maps.app.goo.gl/JkjXFKct6v5D2jbt7",
+   "directions": null,
+   "expect": [
+    {
+     "text": "Some corps members from Ado-Ekiti sell items near camp, but mami market prices are cheaper.",
+     "src": {
+      "label": "Nairaland",
+      "url": "https://www.nairaland.com/3807015/nysc-orientation-camp-ise-orun-emure"
+     },
+     "verified": false
+    }
+   ],
+   "moved": null,
+   "verified": {
+    "name": true,
+    "address": true,
+    "map": true,
+    "directions": false
+   },
+   "sources": [
+    {
+     "label": "NYSC: Addresses of NYSC Orientation Camps",
+     "url": "https://www.nysc.gov.ng/camps.html"
+    },
+    {
+     "label": "Punch: full list of NYSC camp addresses",
+     "url": "https://punchng.com/full-list-nysc-orientation-camp-addresses-across-nigeria/"
+    }
+   ],
+   "lastChecked": "2026-10-07",
+   "officialText": "NYSC Permanent Orientation Camp, Ise-Orun/Emure Local Government Area, Ekiti State."
+  },
+  {
+   "code": "EN",
+   "state": "Enugu",
+   "name": "NYSC Permanent Orientation Camp, Awgu",
+   "town": "Awgu LGA (spelt “Agwu” on the NYSC site)",
+   "address": "NYSC Permanent Orientation Camp Agwu, Agwu Local Government Area, Enugu State",
+   "lat": null,
+   "lon": null,
+   "geocoded": false,
+   "mapUrl": "https://maps.app.goo.gl/H36eGrTVyvFY9thS7?g_st=ac",
+   "directions": null,
+   "expect": [
+    {
+     "text": "Camp is about 50 km from Enugu city, the state capital.",
+     "src": {
+      "label": "Intercity",
+      "url": "https://intercity.ng/blog/nysc-orientation-camp-locations-nigeria"
+     },
+     "verified": false
+    },
+    {
+     "text": "Camp is located in Awgu, close to the Awgu Local Government Secretariat.",
+     "src": {
+      "label": "Hotels.ng",
+      "url": "https://hotels.ng/places/uncategorized/1987-nysc-permanent-orientation-camp-enugu"
+     },
+     "verified": false
+    },
+    {
+     "text": "A large Mami Market run by locals sells food, drinks and camp needs; many prefer it to camp meals.",
+     "src": {
+      "label": "Hotels.ng",
+      "url": "https://hotels.ng/places/uncategorized/1987-nysc-permanent-orientation-camp-enugu"
+     },
+     "verified": false
+    }
+   ],
+   "moved": null,
+   "verified": {
+    "name": true,
+    "address": true,
+    "map": false,
+    "directions": false
+   },
+   "sources": [
+    {
+     "label": "NYSC: Addresses of NYSC Orientation Camps",
+     "url": "https://www.nysc.gov.ng/camps.html"
+    }
+   ],
+   "lastChecked": "2026-10-07",
+   "officialText": "NYSC Permanent Orientation Camp Agwu, Agwu Local Government Area, Enugu State"
+  },
+  {
+   "code": "FC",
+   "state": "FCT Abuja",
+   "name": "NYSC Permanent Orientation Camp",
+   "town": "Kubwa, Bwari Area Council",
+   "address": "NYSC Permanent Orientation Camp, Kubwa, Bwari Area Council, FCT",
+   "lat": 9.148659,
+   "lon": 7.3164481,
+   "geocoded": false,
+   "mapUrl": "https://maps.app.goo.gl/c27WE4hZtYSJdVt6A",
+   "directions": null,
+   "expect": [],
+   "moved": null,
+   "verified": {
+    "name": true,
+    "address": true,
+    "map": true,
+    "directions": false
+   },
+   "sources": [
+    {
+     "label": "NYSC: Addresses of NYSC Orientation Camps",
+     "url": "https://www.nysc.gov.ng/camps.html"
+    },
+    {
+     "label": "Punch: full list of NYSC camp addresses",
+     "url": "https://punchng.com/full-list-nysc-orientation-camp-addresses-across-nigeria/"
+    }
+   ],
+   "lastChecked": "2026-10-07",
+   "officialText": "NYSC Permanent Orientation Camp, Kubwa, Bwari Area Council, FCT."
+  },
+  {
+   "code": "GM",
+   "state": "Gombe",
+   "name": "NYSC Temporary Orientation Camp",
+   "town": "Science Technical College, Amada",
+   "address": "NYSC Temporary Orientation Camp, Science Technical College, Amada, KM 21, Gombe-Bauchi Highway, Near International Airport, Gombe State",
+   "lat": 10.2878079,
+   "lon": 11.0034999,
+   "geocoded": false,
+   "mapUrl": "https://maps.app.goo.gl/J7w8y5WX96Vwz31X6",
+   "directions": null,
+   "expect": [
+    {
+     "text": "Camp is located in Akko Local Government Area, shortly after the airport, near Amada.",
+     "src": {
+      "label": "NYSC state page (Facebook)",
+      "url": "https://www.facebook.com/Officialnyscgombe/videos/1793157408521543/"
+     },
+     "verified": true
+    },
+    {
+     "text": "A permanent camp is being built at Boltongo in Yamaltu Deba LGA, not yet complete.",
+     "src": {
+      "label": "The Guardian",
+      "url": "https://guardian.ng/news/nysc-appeals-to-gombe-govt-to-complete-orientation-camp/"
+     },
+     "verified": true
+    },
+    {
+     "text": "Camp used for Batch 'B' Stream II swearing-in is still the Temporary Orientation Camp at Amada, Akko LGA.",
+     "src": {
+      "label": "The Guardian",
+      "url": "https://guardian.ng/news/nysc-appeals-to-gombe-govt-to-complete-orientation-camp/"
+     },
+     "verified": true
+    }
+   ],
+   "moved": "This is a temporary camp (as listed by the NYSC). A permanent camp is being built; confirm the venue on your call-up letter.",
+   "verified": {
+    "name": true,
+    "address": true,
+    "map": true,
+    "directions": false
+   },
+   "sources": [
+    {
+     "label": "NYSC: Addresses of NYSC Orientation Camps",
+     "url": "https://www.nysc.gov.ng/camps.html"
+    },
+    {
+     "label": "Punch: full list of NYSC camp addresses",
+     "url": "https://punchng.com/full-list-nysc-orientation-camp-addresses-across-nigeria/"
+    }
+   ],
+   "lastChecked": "2026-10-07",
+   "officialText": "NYSC Temporary Orientation Camp, Science Technical College, Amada, KM 21, Gombe-Bauchi Highway, Near International Airport, Gombe State."
+  },
+  {
+   "code": "IM",
+   "state": "Imo",
+   "name": "NYSC Permanent Orientation Camp Former Girl's Model Secondary School Eziama Obaire Nkwerre Local Govt Area",
+   "town": "Eziama Obaire, Nkwerre LGA",
+   "address": "NYSC Permanent Orientation Camp Former Girl's Model Secondary School Eziama Obaire Nkwerre Local Govt Area, Imo State",
+   "lat": 5.7415714,
+   "lon": 7.0777583,
+   "geocoded": false,
+   "mapUrl": "https://maps.app.goo.gl/QaXW5NMdf2ZX2W79A",
+   "directions": null,
+   "expect": [
+    {
+     "text": "Camp sits in Eziama Obaire, an area that's neither fully rural nor urban—don't expect fancy buildings.",
+     "src": {
+      "label": "NYSC WhatsApp Group blog",
+      "url": "https://nyscwhatsappgroup.com/my-imo-nysc-camp-experience/"
+     },
+     "verified": false
+    },
+    {
+     "text": "Owerri, the state capital, is the nearby option for those wanting city life during camp.",
+     "src": {
+      "label": "NYSC WhatsApp Group blog",
+      "url": "https://nyscwhatsappgroup.com/my-imo-nysc-camp-experience/"
+     },
+     "verified": false
+    },
+    {
+     "text": "Mammy market is the main hangout spot in camp, so budget for it.",
+     "src": {
+      "label": "NYSC WhatsApp Group blog",
+      "url": "https://nyscwhatsappgroup.com/my-imo-nysc-camp-experience/"
+     },
+     "verified": false
+    }
+   ],
+   "moved": null,
+   "verified": {
+    "name": true,
+    "address": true,
+    "map": true,
+    "directions": false
+   },
+   "sources": [
+    {
+     "label": "NYSC: Addresses of NYSC Orientation Camps",
+     "url": "https://www.nysc.gov.ng/camps.html"
+    }
+   ],
+   "lastChecked": "2026-10-07",
+   "officialText": "NYSC Permanent Orientation Camp Former Girl's Model Secondary School Eziama Obaire Nkwerre Local Govt Area, Imo State."
+  },
+  {
+   "code": "JG",
+   "state": "Jigawa",
+   "name": "NYSC Permanent Camp",
+   "town": "Fanisau, Dutse",
+   "address": "NYSC Permanent Camp, opposite Army Barrack, Fanisua Dutse Local Government Area, Jigawa State",
+   "lat": 11.8031923,
+   "lon": 9.3556527,
+   "geocoded": false,
+   "mapUrl": "https://maps.app.goo.gl/szvD7in2aWU3DRoK7",
+   "directions": null,
+   "expect": [],
+   "moved": null,
+   "verified": {
+    "name": true,
+    "address": true,
+    "map": true,
+    "directions": false
+   },
+   "sources": [
+    {
+     "label": "NYSC: Addresses of NYSC Orientation Camps",
+     "url": "https://www.nysc.gov.ng/camps.html"
+    },
+    {
+     "label": "Punch: full list of NYSC camp addresses",
+     "url": "https://punchng.com/full-list-nysc-orientation-camp-addresses-across-nigeria/"
+    }
+   ],
+   "lastChecked": "2026-10-07",
+   "officialText": "NYSC Permanent Camp, opposite Army Barrack, Fanisua Dutse Local Government Area, Jigawa State."
+  },
+  {
+   "code": "KD",
+   "state": "Kaduna",
+   "name": "Government College, Kurmin Mashi (camp venue)",
+   "town": "Gwamna Road, Kurmin Mashi, Kaduna",
+   "address": "Government College Gwamna Road, Kurmin Mashi Kaduna, Kaduna State",
+   "lat": 10.5424032,
+   "lon": 7.4201447,
+   "geocoded": false,
+   "mapUrl": "https://maps.app.goo.gl/C54A4m562c9x4a7N8",
+   "directions": null,
+   "expect": [
+    {
+     "text": "Camp is a temporary site at Government College, located in Kurmin Mashi, Kaduna South LGA.",
+     "src": {
+      "label": "NYSC state page (Facebook)",
+      "url": "https://www.facebook.com/NYSC.KADUNA73/posts/your-route-to-the-nysc-temporary-orientation-camp-government-college-kaduna-loca/1225545022948999/"
+     },
+     "verified": true
+    },
+    {
+     "text": "NYSC asked Kaduna govt for a permanent camp, iron bunk beds, and an ambulance, suggesting current gaps.",
+     "src": {
+      "label": "Peoples Gazette",
+      "url": "https://gazettengr.com/nysc-asks-kaduna-govt-to-provide-permanent-orientation-camp-stipends/"
+     },
+     "verified": false
+    }
+   ],
+   "moved": null,
+   "verified": {
+    "name": true,
+    "address": true,
+    "map": true,
+    "directions": false
+   },
+   "sources": [
+    {
+     "label": "NYSC: Addresses of NYSC Orientation Camps",
+     "url": "https://www.nysc.gov.ng/camps.html"
+    },
+    {
+     "label": "Punch: full list of NYSC camp addresses",
+     "url": "https://punchng.com/full-list-nysc-orientation-camp-addresses-across-nigeria/"
+    }
+   ],
+   "lastChecked": "2026-10-07",
+   "officialText": "Government College Gwamna Road, Kurmin Mashi Kaduna, Kaduna State."
+  },
+  {
+   "code": "KN",
+   "state": "Kano",
+   "name": "NYSC Permanent Orientation Camp",
+   "town": "Kusala Dam, Karaye",
+   "address": "NYSC Permanent Orientation Camp, Kusala Dam, Karaye, Karaye Local Government, Kano State",
+   "lat": 11.8223891,
+   "lon": 8.0324748,
+   "geocoded": false,
+   "mapUrl": "https://maps.app.goo.gl/xSWHRTQ8b8phCUvx9",
+   "directions": null,
+   "expect": [],
+   "moved": null,
+   "verified": {
+    "name": true,
+    "address": true,
+    "map": true,
+    "directions": false
+   },
+   "sources": [
+    {
+     "label": "NYSC: Addresses of NYSC Orientation Camps",
+     "url": "https://www.nysc.gov.ng/camps.html"
+    },
+    {
+     "label": "Punch: full list of NYSC camp addresses",
+     "url": "https://punchng.com/full-list-nysc-orientation-camp-addresses-across-nigeria/"
+    }
+   ],
+   "lastChecked": "2026-10-07",
+   "officialText": "NYSC Permanent Orientation Camp, Kusala Dam, Karaye, Karaye Local Government, Kano State."
+  },
+  {
+   "code": "KT",
+   "state": "Katsina",
+   "name": "Youth Multi-purpose Centre / NYSC Permanent Orientation Camp",
+   "town": "Mani Road, Katsina",
+   "address": "Youth Multi-purpose Centre/ NYSC Permanent Orientation Camp, Mani Road, Katsina State",
+   "lat": 12.9663898,
+   "lon": 7.6481588,
+   "geocoded": false,
+   "mapUrl": "https://maps.app.goo.gl/qUyKrfwYwhT9k8fG9",
+   "directions": "The camp is located along the Katsina–Daura Road.",
+   "expect": [
+    {
+     "text": "Camp shares its entrance with the state-owned Youth Craft Village, raising security concerns.",
+     "src": {
+      "label": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/more-news/888067-nysc-raises-security-concerns-over-shared-access-to-katsina-orientation-camp.html"
+     },
+     "verified": true
+    },
+    {
+     "text": "Male hostels are in poor condition while female hostels have had some renovation.",
+     "src": {
+      "label": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/more-news/888067-nysc-raises-security-concerns-over-shared-access-to-katsina-orientation-camp.html"
+     },
+     "verified": true
+    },
+    {
+     "text": "Camp needs (food, drinks, supplies) are sold at an on-site market called Mami Market.",
+     "src": {
+      "label": "Hotels.ng",
+      "url": "https://hotels.ng/places/government-building/1983-nysc-permanent-orientation-camp-katsina"
+     },
+     "verified": false
+    }
+   ],
+   "moved": null,
+   "verified": {
+    "name": true,
+    "address": true,
+    "map": true,
+    "directions": true
+   },
+   "sources": [
+    {
+     "label": "NYSC: Addresses of NYSC Orientation Camps",
+     "url": "https://www.nysc.gov.ng/camps.html"
+    },
+    {
+     "label": "Punch: full list of NYSC camp addresses",
+     "url": "https://punchng.com/full-list-nysc-orientation-camp-addresses-across-nigeria/"
+    },
+    {
+     "label": "Premium Times",
+     "url": "https://www.premiumtimesng.com/news/more-news/888067-nysc-raises-security-concerns-over-shared-access-to-katsina-orientation-camp.html"
+    }
+   ],
+   "lastChecked": "2026-10-07",
+   "officialText": "Youth Multi-purpose Centre/ NYSC Permanent Orientation Camp, Mani Road, Katsina State."
+  },
+  {
+   "code": "KB",
+   "state": "Kebbi",
+   "name": "NYSC Temporary Orientation Camp",
+   "town": "Govt Science College, Basaura, Birnin Kebbi",
+   "address": "NYSC Temporary Orientation Camp, Government Science College, Basaura, KM 15, Along Birnin Kebbi – Jega Road, Basaura, Birnin Kebbi, Kebbi State",
+   "lat": null,
+   "lon": null,
+   "geocoded": false,
+   "mapUrl": null,
+   "directions": null,
+   "expect": [
+    {
+     "text": "Camp area (Basuara) is considered exposed and insecure; community reportedly can't adequately secure it.",
+     "src": {
+      "label": "Peoples Gazette",
+      "url": "https://gazettengr.com/nysc-begs-kebbi-to-relocate-orientation-camp-to-birnin-kebbi-for-corps-members-safety/"
+     },
+     "verified": false
+    },
+    {
+     "text": "Current Basuara camp replaced the permanent Dakingari camp, which was abandoned due to insecurity.",
+     "src": {
+      "label": "Peoples Gazette",
+      "url": "https://gazettengr.com/nysc-begs-kebbi-to-relocate-orientation-camp-to-birnin-kebbi-for-corps-members-safety/"
+     },
+     "verified": false
+    },
+    {
+     "text": "Officials cite poor camp facilities, lack of corps lodges, and a low state stipend of N2,000 per month.",
+     "src": {
+      "label": "Peoples Gazette",
+      "url": "https://gazettengr.com/nysc-begs-kebbi-to-relocate-orientation-camp-to-birnin-kebbi-for-corps-members-safety/"
+     },
+     "verified": false
+    }
+   ],
+   "moved": "This is a temporary camp (as listed by the NYSC), and the NYSC has asked for it to move again. Confirm the venue on your call-up letter.",
+   "verified": {
+    "name": true,
+    "address": true,
+    "map": false,
+    "directions": false
+   },
+   "sources": [
+    {
+     "label": "NYSC: Addresses of NYSC Orientation Camps",
+     "url": "https://www.nysc.gov.ng/camps.html"
+    }
+   ],
+   "lastChecked": "2026-10-07",
+   "officialText": "NYSC Temporary Orientation Camp, Government Science College, Basaura, KM 15, Along Birnin Kebbi â Jega Road, Basaura, Birnin Kebbi, Kebbi State."
+  },
+  {
+   "code": "KG",
+   "state": "Kogi",
+   "name": "NYSC Permanent Orientation Camp",
+   "town": "Asaya, Kabba",
+   "address": "NYSC Permanent Orientation Camp, Asaya, Kabba Local Government Area, Kogi State",
+   "lat": 7.8181043,
+   "lon": 6.0438821,
+   "geocoded": false,
+   "mapUrl": "https://maps.app.goo.gl/hyeyhv4q3z6QrfmJ7",
+   "directions": "From anywhere in Kogi State, take a bus to Kabba, get off at the last stop, then take a bike to camp.",
+   "expect": [
+    {
+     "text": "Camp is in a colder part of Kogi State, located in the Yoruba-speaking area.",
+     "src": {
+      "label": "NYSC Kogi blog",
+      "url": "https://nysckogistate.wordpress.com/about-asaya-kabba-camp/"
+     },
+     "verified": false
+    },
+    {
+     "text": "Camp is surrounded by hills linked to local folklore.",
+     "src": {
+      "label": "NYSC Kogi blog",
+      "url": "https://nysckogistate.wordpress.com/about-asaya-kabba-camp/"
+     },
+     "verified": false
+    }
+   ],
+   "moved": null,
+   "verified": {
+    "name": true,
+    "address": true,
+    "map": true,
+    "directions": false
+   },
+   "sources": [
+    {
+     "label": "NYSC: Addresses of NYSC Orientation Camps",
+     "url": "https://www.nysc.gov.ng/camps.html"
+    },
+    {
+     "label": "Punch: full list of NYSC camp addresses",
+     "url": "https://punchng.com/full-list-nysc-orientation-camp-addresses-across-nigeria/"
+    },
+    {
+     "label": "allsubjectsmadesimple.com.ng",
+     "url": "https://www.allsubjectsmadesimple.com.ng/2024/09/nysc-state-codes-addresses-and-directions-to-all-orientation-camps-in-nigeria.html"
+    }
+   ],
+   "lastChecked": "2026-10-07",
+   "officialText": "NYSC Permanent Orientation Camp, Asaya, Kabba Local Government Area, Kogi State."
+  },
+  {
+   "code": "KW",
+   "state": "Kwara",
+   "name": "NYSC Temporary Orientation Camp",
+   "town": "Kwara State Polytechnic, Ilorin",
+   "address": "NYSC Temporary Orientation Camp, Kwara State Polytechnic, Old Jebba Road, before University of Ilorin Teaching Hospital, Illorin, Kwara State",
+   "lat": 8.5893603,
+   "lon": 4.669054,
+   "geocoded": false,
+   "mapUrl": "https://maps.app.goo.gl/HwXpULjLRuehwj6c9",
+   "directions": null,
+   "expect": [
+    {
+     "text": "Camp is at a temporary site (Kwara State Polytechnic); the permanent camp is at Yikpata, Edu LGA.",
+     "src": {
+      "label": "NYSC Kwara 360",
+      "url": "https://nysckwara360.ng/"
+     },
+     "verified": false
+    },
+    {
+     "text": "Permanent orientation camp location is Yikpata, Edu Local Government Area, Kwara State.",
+     "src": {
+      "label": "Intercity",
+      "url": "https://intercity.ng/blog/nysc-orientation-camp-locations-nigeria"
+     },
+     "verified": false
+    }
+   ],
+   "moved": "This is a temporary camp at Kwara State Polytechnic (as listed by the NYSC). Confirm the venue on your call-up letter.",
+   "verified": {
+    "name": true,
+    "address": true,
+    "map": true,
+    "directions": false
+   },
+   "sources": [
+    {
+     "label": "NYSC: Addresses of NYSC Orientation Camps",
+     "url": "https://www.nysc.gov.ng/camps.html"
+    }
+   ],
+   "lastChecked": "2026-10-07",
+   "officialText": "NYSC Temporary Orientation Camp, Kwara State Polytechnic, Old Jebba Road, before University of Ilorin Teaching Hospital, Illorin, Kwara State."
+  },
+  {
+   "code": "LA",
+   "state": "Lagos",
+   "name": "NYSC Permanent Orientation Camp",
+   "town": "Iyana Ipaja, Agege",
+   "address": "NYSC Permanent Orientation Camp, Iyana Ipaja, Agege, Lagos State",
+   "lat": 6.6251506,
+   "lon": 3.3026871,
+   "geocoded": false,
+   "mapUrl": "https://maps.app.goo.gl/eYjwehXxCQ3BFPwQA",
+   "directions": null,
+   "expect": [
+    {
+     "text": "Lagos plans a new permanent NYSC orientation camp; government said work would start on this proposed site.",
+     "src": {
+      "label": "Facebook",
+      "url": "https://www.facebook.com/guardianng/posts/governor-babajide-sanwo-olu-has-announced-that-lagos-state-will-allocate-an-addi/1369560051198088/"
+     },
+     "verified": false
+    }
+   ],
+   "moved": null,
+   "verified": {
+    "name": true,
+    "address": true,
+    "map": true,
+    "directions": false
+   },
+   "sources": [
+    {
+     "label": "NYSC: Addresses of NYSC Orientation Camps",
+     "url": "https://www.nysc.gov.ng/camps.html"
+    },
+    {
+     "label": "Punch: full list of NYSC camp addresses",
+     "url": "https://punchng.com/full-list-nysc-orientation-camp-addresses-across-nigeria/"
+    }
+   ],
+   "lastChecked": "2026-10-07",
+   "officialText": "NYSC Permanent Orientation Camp, Iyana Ipaja, Agege, Lagos State."
+  },
+  {
+   "code": "NS",
+   "state": "Nasarawa",
+   "name": "Magaji Dan-Yamusa Permanent Orientation Camp",
+   "town": "Keffi",
+   "address": "Magaji Dan-Yamusa Permanent Orientation Camp, Keffi, Nasarawa State",
+   "lat": 8.8615197,
+   "lon": 7.8299632,
+   "geocoded": false,
+   "mapUrl": "https://maps.app.goo.gl/ki1JZ4PiWYk2ZScM8",
+   "directions": null,
+   "expect": [],
+   "moved": null,
+   "verified": {
+    "name": true,
+    "address": true,
+    "map": true,
+    "directions": false
+   },
+   "sources": [
+    {
+     "label": "NYSC: Addresses of NYSC Orientation Camps",
+     "url": "https://www.nysc.gov.ng/camps.html"
+    },
+    {
+     "label": "Punch: full list of NYSC camp addresses",
+     "url": "https://punchng.com/full-list-nysc-orientation-camp-addresses-across-nigeria/"
+    }
+   ],
+   "lastChecked": "2026-10-07",
+   "officialText": "Magaji Dan-Yamusa Permanent Orientation Camp, Keffi, Nasarawa State."
+  },
+  {
+   "code": "NG",
+   "state": "Niger",
+   "name": "NYSC Permanent Orientation Camp",
+   "town": "Paiko",
+   "address": "NYSC Permanent Orientation Camp, (Former Abubakar, Dada Senior Secondary School), Paiko, Niger State",
+   "lat": 9.4569695,
+   "lon": 6.6350225,
+   "geocoded": false,
+   "mapUrl": "https://maps.app.goo.gl/2fj3Q76HD9qCrn45A",
+   "directions": null,
+   "expect": [
+    {
+     "text": "Current camp is one of the oldest and most challenging orientation facilities in Nigeria.",
+     "src": {
+      "label": "TVC News",
+      "url": "https://www.tvcnews.tv/niger-govt-pledges-new-nysc-orientation-camp-within-12-months/"
+     },
+     "verified": false
+    },
+    {
+     "text": "The present facility is housed in Abubakar Dada Secondary School and suffers infrastructural decay.",
+     "src": {
+      "label": "Facebook",
+      "url": "https://www.facebook.com/tvcnewsng/posts/niger-govt-pledges-new-nysc-orientation-camp-within-12-monthsthe-niger-state-gov/1475852627909204/"
+     },
+     "verified": false
+    },
+    {
+     "text": "Niger State is building a new permanent NYSC camp in Paiko, promised within 12 months.",
+     "src": {
+      "label": "TVC News",
+      "url": "https://www.tvcnews.tv/niger-govt-pledges-new-nysc-orientation-camp-within-12-months/"
+     },
+     "verified": false
+    }
+   ],
+   "moved": null,
+   "verified": {
+    "name": true,
+    "address": true,
+    "map": true,
+    "directions": false
+   },
+   "sources": [
+    {
+     "label": "NYSC: Addresses of NYSC Orientation Camps",
+     "url": "https://www.nysc.gov.ng/camps.html"
+    },
+    {
+     "label": "Punch: full list of NYSC camp addresses",
+     "url": "https://punchng.com/full-list-nysc-orientation-camp-addresses-across-nigeria/"
+    }
+   ],
+   "lastChecked": "2026-10-07",
+   "officialText": "NYSC Permanent Orientation Camp, (Former Abubakar, Dada Senior Secondary School), Paiko, Niger State."
+  },
+  {
+   "code": "OG",
+   "state": "Ogun",
+   "name": "NYSC Permanent Orientation Camp",
+   "town": "Ikenne Road, Sagamu",
+   "address": "NYSC Permanent Orientation Camp, Ikenne Road, Sagamu Local Government Area, Sagamu, Ogun State",
+   "lat": 6.8616193,
+   "lon": 3.6680637,
+   "geocoded": false,
+   "mapUrl": "https://maps.app.goo.gl/J7Q7KSLnt1FVhJqBA",
+   "directions": null,
+   "expect": [],
+   "moved": null,
+   "verified": {
+    "name": true,
+    "address": true,
+    "map": true,
+    "directions": false
+   },
+   "sources": [
+    {
+     "label": "NYSC: Addresses of NYSC Orientation Camps",
+     "url": "https://www.nysc.gov.ng/camps.html"
+    },
+    {
+     "label": "Punch: full list of NYSC camp addresses",
+     "url": "https://punchng.com/full-list-nysc-orientation-camp-addresses-across-nigeria/"
+    }
+   ],
+   "lastChecked": "2026-10-07",
+   "officialText": "NYSC Permanent Orientation Camp, Ikenne Road, Sagamu Local Government Area, Sagamu, Ogun State."
+  },
+  {
+   "code": "OD",
+   "state": "Ondo",
+   "name": "NYSC Permanent Orientation Camp",
+   "town": "Ikare-Akoko",
+   "address": "NYSC Permanent Orientation Camp, Ikare-Akoko Local Government Area, Ondo State",
+   "lat": 7.5214408,
+   "lon": 5.7360204,
+   "geocoded": false,
+   "mapUrl": "https://maps.app.goo.gl/EpHVuRvMmRv3DQuJ7",
+   "directions": "Camp is located off Ado Ekiti-Ikare Road in Ikare-Akoko, Ondo.",
+   "expect": [],
+   "moved": null,
+   "verified": {
+    "name": true,
+    "address": true,
+    "map": true,
+    "directions": false
+   },
+   "sources": [
+    {
+     "label": "NYSC: Addresses of NYSC Orientation Camps",
+     "url": "https://www.nysc.gov.ng/camps.html"
+    },
+    {
+     "label": "Punch: full list of NYSC camp addresses",
+     "url": "https://punchng.com/full-list-nysc-orientation-camp-addresses-across-nigeria/"
+    },
+    {
+     "label": "Nairaland",
+     "url": "https://www.nairaland.com/6248557/nysc-permanent-orientation-camp-ondo/2"
+    }
+   ],
+   "lastChecked": "2026-10-07",
+   "officialText": "NYSC Permanent Orientation Camp, Ikare-Akoko Local Government Area, Ondo State."
+  },
+  {
+   "code": "OS",
+   "state": "Osun",
+   "name": "NYSC Permanent Orientation Camp",
+   "town": "Aisu Junction, Ede",
+   "address": "NYSC Permanent Orientation Camp, Aisu Junction, Cottage Hospital Road, Ede. Ede North Local Government, Osun State",
+   "lat": 7.7047391,
+   "lon": 4.4539119,
+   "geocoded": false,
+   "mapUrl": "https://maps.app.goo.gl/HTHNdqRsvgVNJshk7",
+   "directions": null,
+   "expect": [
+    {
+     "text": "The camp recently underwent a full renovation and transformation, described as a new look.",
+     "src": {
+      "label": "NYSC state page (Facebook)",
+      "url": "https://www.facebook.com/nyscosun.statenew/videos/a-new-look-a-renewed-purpose-watch-the-transformation-of-nysc-permanent-orientat/2756992867989611/"
+     },
+     "verified": true
+    }
+   ],
+   "moved": null,
+   "verified": {
+    "name": true,
+    "address": true,
+    "map": true,
+    "directions": false
+   },
+   "sources": [
+    {
+     "label": "NYSC: Addresses of NYSC Orientation Camps",
+     "url": "https://www.nysc.gov.ng/camps.html"
+    }
+   ],
+   "lastChecked": "2026-10-07",
+   "officialText": "NYSC Permanent Orientation Camp, Aisu Junction, Cottage Hospital Road, Ede. Ede North Local Government, Osun State."
+  },
+  {
+   "code": "OY",
+   "state": "Oyo",
+   "name": "NYSC Permanent Orientation Camp",
+   "town": "Gbakuta, Iseyin",
+   "address": "NYSC Permanent Orientation Camp, Okeho-Road, Gbakuta Iseyin. Oyo State",
+   "lat": 7.988412,
+   "lon": 3.5599338,
+   "geocoded": false,
+   "mapUrl": "https://maps.app.goo.gl/pJ7iP5FN2uaz7JCD8",
+   "directions": null,
+   "expect": [],
+   "moved": null,
+   "verified": {
+    "name": true,
+    "address": true,
+    "map": true,
+    "directions": false
+   },
+   "sources": [
+    {
+     "label": "NYSC: Addresses of NYSC Orientation Camps",
+     "url": "https://www.nysc.gov.ng/camps.html"
+    }
+   ],
+   "lastChecked": "2026-10-07",
+   "officialText": "NYSC Permanent Orientation Camp, Okeho-Road, Gbakuta Iseyin. Oyo State."
+  },
+  {
+   "code": "PL",
+   "state": "Plateau",
+   "name": "NYSC Temporary Orientation Camp, Doi-Du",
+   "town": "Doi-Du, Jos South LGA",
+   "address": "NYSC Temp. Orient. Camp, Waye Foundation by Buken Academy, Doi-Du, Jos South LGA",
+   "lat": 9.8035644,
+   "lon": 8.9194172,
+   "geocoded": false,
+   "mapUrl": "https://maps.app.goo.gl/8wiJfcnf5k9wb8X39",
+   "directions": null,
+   "expect": [],
+   "moved": "This is a temporary camp (as listed by the NYSC). Confirm the venue on your call-up letter.",
+   "verified": {
+    "name": true,
+    "address": true,
+    "map": true,
+    "directions": false
+   },
+   "sources": [
+    {
+     "label": "NYSC: Addresses of NYSC Orientation Camps",
+     "url": "https://www.nysc.gov.ng/camps.html"
+    }
+   ],
+   "lastChecked": "2026-10-07",
+   "officialText": "NYSC Temp. Orient. Camp, Waye Foundation by Buken Academy, Doi-Du,Â JosÂ SouthÂ LGA."
+  },
+  {
+   "code": "RV",
+   "state": "Rivers",
+   "name": "NYSC Permanent Orientation Camp",
+   "town": "Nonwa-Gbam, Tai LGA",
+   "address": "NYSC Permanent Orientation Camp, Nonwa-Gbam Tai Local Government Area, Rivers State",
+   "lat": 4.7385762,
+   "lon": 7.2265884,
+   "geocoded": false,
+   "mapUrl": "https://maps.app.goo.gl/bAd7yadnUqbKXms77",
+   "directions": null,
+   "expect": [],
+   "moved": null,
+   "verified": {
+    "name": true,
+    "address": true,
+    "map": true,
+    "directions": false
+   },
+   "sources": [
+    {
+     "label": "NYSC: Addresses of NYSC Orientation Camps",
+     "url": "https://www.nysc.gov.ng/camps.html"
+    },
+    {
+     "label": "Punch: full list of NYSC camp addresses",
+     "url": "https://punchng.com/full-list-nysc-orientation-camp-addresses-across-nigeria/"
+    }
+   ],
+   "lastChecked": "2026-10-07",
+   "officialText": "NYSC Permanent Orientation Camp, Nonwa-Gbam Tai Local Government Area, Rivers State."
+  },
+  {
+   "code": "SO",
+   "state": "Sokoto",
+   "name": "NYSC Permanent Orientation Camp",
+   "town": "Wamakko",
+   "address": "NYSC Permanent Orientation Camp, Wamakko,Wamakko Local Govt Area, Sokoto State",
+   "lat": 13.0360223,
+   "lon": 5.0932753,
+   "geocoded": false,
+   "mapUrl": "https://maps.app.goo.gl/jiwNo9t3CWPXj2XJA",
+   "directions": null,
+   "expect": [
+    {
+     "text": "Mami Market inside camp run by locals sells food, drinks, and other camp needs.",
+     "src": {
+      "label": "Hotels.ng",
+      "url": "https://hotels.ng/places/government-building/1982-nysc-permanent-orientation-camp-sokoto"
+     },
+     "verified": false
+    },
+    {
+     "text": "Expect very hot weather; one corps member called it the famous Sokoto heat.",
+     "src": {
+      "label": "NYSC WhatsApp Group blog",
+      "url": "https://nyscwhatsappgroup.com/my-sokoto-nysc-camp-story-and-key-lessons/"
+     },
+     "verified": false
+    },
+    {
+     "text": "Camp was renovated in 2026; multipurpose hall expanded to fit 3,000 corps members, but mattresses and solar lighting still needed.",
+     "src": {
+      "label": "Realnews",
+      "url": "https://realnewsmagazine.net/sokoto-nysc-camp-gets-total-overhaul-as-gov-aliyu-raises-corps-allowances/"
+     },
+     "verified": false
+    }
+   ],
+   "moved": null,
+   "verified": {
+    "name": true,
+    "address": true,
+    "map": true,
+    "directions": false
+   },
+   "sources": [
+    {
+     "label": "NYSC: Addresses of NYSC Orientation Camps",
+     "url": "https://www.nysc.gov.ng/camps.html"
+    },
+    {
+     "label": "Punch: full list of NYSC camp addresses",
+     "url": "https://punchng.com/full-list-nysc-orientation-camp-addresses-across-nigeria/"
+    }
+   ],
+   "lastChecked": "2026-10-07",
+   "officialText": "NYSC Permanent Orientation Camp, Wamakko,Wamakko Local Govt Area, Sokoto State."
+  },
+  {
+   "code": "TR",
+   "state": "Taraba",
+   "name": "NYSC Permanent Orientation Camp",
+   "town": "Sibre Airport Road, Jalingo",
+   "address": "NYSC Permanent Orientation Camp, Sibre Airport Road, Jalingo, Taraba State",
+   "lat": 8.8786204,
+   "lon": 11.2430928,
+   "geocoded": false,
+   "mapUrl": "https://maps.app.goo.gl/WEQN5LxzWyXhQW1GA",
+   "directions": "Camp is located on the Jalingo–Wukari road, around 15 km from Jalingo.",
+   "expect": [
+    {
+     "text": "Camp is along Jalingo–Wukari road, about 15 km from Jalingo town.",
+     "src": {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q114729736"
+     },
+     "verified": false
+    },
+    {
+     "text": "Camp is about 5 km from the airport.",
+     "src": {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q114729736"
+     },
+     "verified": false
+    },
+    {
+     "text": "Corps members' hostel accommodation is well spaced out.",
+     "src": {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q114729736"
+     },
+     "verified": false
+    }
+   ],
+   "moved": null,
+   "verified": {
+    "name": true,
+    "address": true,
+    "map": true,
+    "directions": false
+   },
+   "sources": [
+    {
+     "label": "NYSC: Addresses of NYSC Orientation Camps",
+     "url": "https://www.nysc.gov.ng/camps.html"
+    },
+    {
+     "label": "Punch: full list of NYSC camp addresses",
+     "url": "https://punchng.com/full-list-nysc-orientation-camp-addresses-across-nigeria/"
+    },
+    {
+     "label": "Wikidata",
+     "url": "https://www.wikidata.org/wiki/Q114729736"
+    }
+   ],
+   "lastChecked": "2026-10-07",
+   "officialText": "NYSC Permanent Orientation Camp, Sibre Airport Road, Jalingo, Taraba State."
+  },
+  {
+   "code": "YB",
+   "state": "Yobe",
+   "name": "NYSC Permanent Orientation Camp Dazigau",
+   "town": "Dazigau, Nangere LGA",
+   "address": "NYSC Permanent Orientation Camp Dazigau, KM 5 Potiskum-Kano Road, Nangere Local Government Area, Yobe State",
+   "lat": 11.7222031,
+   "lon": 10.9887116,
+   "geocoded": false,
+   "mapUrl": "https://maps.app.goo.gl/WPxqmJoiNQsEfeMQ8",
+   "directions": null,
+   "expect": [],
+   "moved": null,
+   "verified": {
+    "name": true,
+    "address": true,
+    "map": true,
+    "directions": false
+   },
+   "sources": [
+    {
+     "label": "NYSC: Addresses of NYSC Orientation Camps",
+     "url": "https://www.nysc.gov.ng/camps.html"
+    },
+    {
+     "label": "Punch: full list of NYSC camp addresses",
+     "url": "https://punchng.com/full-list-nysc-orientation-camp-addresses-across-nigeria/"
+    }
+   ],
+   "lastChecked": "2026-10-07",
+   "officialText": "NYSC Permanent Orientation Camp Dazigau, KM 5 Potiskum-Kano Road, Nangere Local Government Area, Yobe State."
+  },
+  {
+   "code": "ZM",
+   "state": "Zamfara",
+   "name": "NYSC Temporary Orientation Camp",
+   "town": "UBEC Training Centre, Lalan, Gusau",
+   "address": "NYSC Temporary Orientation Camp, UBEC Training Centre, Sokoto Bye-pass Road, Lalan, Gusau, Zamfara State",
+   "lat": 12.1639164,
+   "lon": 6.6738082,
+   "geocoded": false,
+   "mapUrl": "https://maps.app.goo.gl/pJTuH6c9e144KaBJA",
+   "directions": null,
+   "expect": [],
+   "moved": "This is a temporary camp (as listed by the NYSC); the permanent camp is reported to be in Tsafe LGA. Confirm the venue on your call-up letter.",
+   "verified": {
+    "name": true,
+    "address": true,
+    "map": true,
+    "directions": false
+   },
+   "sources": [
+    {
+     "label": "NYSC: Addresses of NYSC Orientation Camps",
+     "url": "https://www.nysc.gov.ng/camps.html"
+    }
+   ],
+   "lastChecked": "2026-10-07",
+   "officialText": "NYSC Temporary Orientation Camp, UBEC Training Centre, Sokoto Bye-pass Road, Lalan, Gusau, Zamfara State."
+  }
+ ],
+ "extraction": {
+  "AB": {
+   "notes": [
+    {
+     "text": "Camp is about 45 minutes by road from Umuahia, the state capital.",
+     "quote": "The camp is located about 45 minutes from Umuahia, the state capital.",
+     "url": "https://intercity.ng/blog/nysc-orientation-camp-locations-nigeria",
+     "ok": true
+    },
+    {
+     "text": "A second phase of camp retrofitting is planned for hostels, staff quarters, and a new parade ground.",
+     "quote": "the second phase of the camp’s retrofitting would soon commence in the hostels and staff quarters, as well as the construction of a new standard parade ground",
+     "url": "https://www.premiumtimesng.com/regional/ssouth-east/888266-otti-assures-1584-nysc-members-of-safe-conducive-camp-environment.html",
+     "ok": true
+    },
+    {
+     "text": "Corps lodges are being renovated and camp feeding has been increased, per the state NYSC coordinator.",
+     "quote": "the ongoing renovation of corps lodges, the augmentation of camp feeding, and the provision of logistics",
+     "url": "https://www.premiumtimesng.com/regional/ssouth-east/888266-otti-assures-1584-nysc-members-of-safe-conducive-camp-environment.html",
+     "ok": true
+    }
+   ],
+   "directions": {
+    "text": "The camp is roughly a 45-minute drive from Umuahia, Abia's state capital.",
+    "quote": "The camp is located about 45 minutes from Umuahia, the state capital.",
+    "url": "https://intercity.ng/blog/nysc-orientation-camp-locations-nigeria",
+    "ok": true
+   },
+   "moved": null
+  },
+  "AD": {
+   "notes": [],
+   "directions": null,
+   "moved": null
+  },
+  "AK": {
+   "notes": [
+    {
+     "text": "The camp is about 40 minutes drive from Uyo, the state capital.",
+     "quote": "The camp is about 40 minutes from Uyo.",
+     "url": "https://intercity.ng/blog/nysc-orientation-camp-locations-nigeria",
+     "ok": true
+    }
+   ],
+   "directions": {
+    "text": "From Uyo, the state capital, the camp is roughly a 40-minute drive away.",
+    "quote": "The camp is about 40 minutes from Uyo.",
+    "url": "https://intercity.ng/blog/nysc-orientation-camp-locations-nigeria",
+    "ok": true
+   },
+   "moved": null
+  },
+  "AN": {
+   "notes": [
+    {
+     "text": "Camp can accommodate over 3,000 corps members.",
+     "quote": "It has capacity to accommodate over 3,000 corps members.",
+     "url": "https://www.nigerianheritage.ng/tour-detail.php?id=1019",
+     "ok": true
+    },
+    {
+     "text": "Camp has a Mammy Market where corps members buy extra food and basic items.",
+     "quote": "The camp includes “Mammy Market” (local vendors market) where corps members can buy extra food and basic items.",
+     "url": "https://www.nigerianheritage.ng/tour-detail.php?id=1019",
+     "ok": true
+    },
+    {
+     "text": "State made efforts on cleanliness, fumigation, mattresses, power and water supply, and security.",
+     "quote": "cleanliness (e.g. fumigation, mattresses, power/water supply) and security from host communities.",
+     "url": "https://www.nigerianheritage.ng/tour-detail.php?id=1019",
+     "ok": true
+    }
+   ],
+   "directions": null,
+   "moved": {
+    "text": "Current camp is a newer facility that replaced the old temporary camp at Umunya, Oyi LGA.",
+    "quote": "to replace the old temporary camp previously used in Umunya in Oyi LGA.",
+    "url": "https://www.nigerianheritage.ng/tour-detail.php?id=1019",
+    "ok": true
+   }
+  },
+  "BA": {
+   "notes": [
+    {
+     "text": "Camp can be very hot; corps members compare the sun to frying an egg.",
+     "quote": "this sun shining here can fry an egg.",
+     "url": "https://www.facebook.com/groups/nysconlinecommunity/posts/26530581936625521/",
+     "ok": true
+    },
+    {
+     "text": "Camp structures were undergoing total renovation with possible new facilities as of 2024.",
+     "quote": "total overhaul of the existing camp structures and possibly built additional facilities.",
+     "url": "https://punchng.com/bauchi-nysc-relocates-orientation-camp-over-renovation/",
+     "ok": false
+    }
+   ],
+   "directions": null,
+   "moved": {
+    "text": "For 2024 Batch B Stream II, camp moved temporarily to Adamu Tafawa Balewa College of Education, Kangere, due to Wailo camp renovation.",
+    "quote": "The orientation camp will now be held at Adamu Tafawa Balewa College of Education in Kangere, instead of the usual Wailo NYSC Permanent Orientation Camp",
+    "url": "https://punchng.com/bauchi-nysc-relocates-orientation-camp-over-renovation/",
+    "ok": true
+   }
+  },
+  "BY": {
+   "notes": [],
+   "directions": null,
+   "moved": null
+  },
+  "BN": {
+   "notes": [],
+   "directions": {
+    "text": "The camp is located along the Makurdi–Gboko road.",
+    "quote": "The camp is located along the Makurdi–Gboko road.",
+    "url": "https://intercity.ng/blog/nysc-orientation-camp-locations-nigeria",
+    "ok": true
+   },
+   "moved": null
+  },
+  "BO": {
+   "notes": [
+    {
+     "text": "Camp reopened in Maiduguri after years of suspension, drawing corps members from across Nigeria again.",
+     "quote": "Maiduguri now welcomes corps members from across Nigeria, marking a new chapter in unity and national",
+     "url": "https://www.youtube.com/watch?v=Zrduvv1o-lQ",
+     "ok": true
+    },
+    {
+     "text": "Borno has experienced insurgent activity, which affected camp operations and safety planning.",
+     "quote": "Borno has been the hotbed of insurgents activities.",
+     "url": "https://gazettengr.com/borno-corpers-barred-from-orientation-camp/",
+     "ok": true
+    }
+   ],
+   "directions": null,
+   "moved": {
+    "text": "Some listings show an alternate Borno camp site (Batagarawa, Katsina state), likely used during insecurity-related relocation.",
+    "quote": "Government Science Secondary School, Batagarawa Katsina state",
+    "url": "https://www.premiumtimesng.com/nysc-orientation-camps-address-nationwide",
+    "ok": true
+   }
+  },
+  "CR": {
+   "notes": [],
+   "directions": null,
+   "moved": null
+  },
+  "DT": {
+   "notes": [
+    {
+     "text": "The camp's multipurpose hall has been renovated with support from the Delta State Government.",
+     "quote": "renovation of the multipurpose hall",
+     "url": "https://www.facebook.com/p/Nysc-Delta-100011359987411/",
+     "ok": true
+    }
+   ],
+   "directions": null,
+   "moved": null
+  },
+  "EB": {
+   "notes": [],
+   "directions": null,
+   "moved": null
+  },
+  "ED": {
+   "notes": [],
+   "directions": {
+    "text": "From Benin City, take a bus to Okada, then a cab or bike directly to the orientation camp.",
+    "quote": "From Benin, board a bus to Okada. From Okada, you'll see a cab or bike that'll take you straight to the orientation camp.",
+    "url": "https://www.allsubjectsmadesimple.com.ng/2024/09/nysc-state-codes-addresses-and-directions-to-all-orientation-camps-in-nigeria.html",
+    "ok": true
+   },
+   "moved": null
+  },
+  "EK": {
+   "notes": [
+    {
+     "text": "Some corps members from Ado-Ekiti sell items near camp, but mami market prices are cheaper.",
+     "quote": "there will be corpers in Ado selling things for you",
+     "url": "https://www.nairaland.com/3807015/nysc-orientation-camp-ise-orun-emure",
+     "ok": true
+    }
+   ],
+   "directions": null,
+   "moved": null
+  },
+  "EN": {
+   "notes": [
+    {
+     "text": "Camp is about 50 km from Enugu city, the state capital.",
+     "quote": "The camp is about 50 km from Enugu city.",
+     "url": "https://intercity.ng/blog/nysc-orientation-camp-locations-nigeria",
+     "ok": true
+    },
+    {
+     "text": "Camp is located in Awgu, close to the Awgu Local Government Secretariat.",
+     "quote": "Awgu, Close to Awgu Local Secretariat",
+     "url": "https://hotels.ng/places/uncategorized/1987-nysc-permanent-orientation-camp-enugu",
+     "ok": true
+    },
+    {
+     "text": "A large Mami Market run by locals sells food, drinks and camp needs; many prefer it to camp meals.",
+     "quote": "There is the large market operated by the locals popularly called \"Mami Market\" where all camp needs are sold, including food and drinks.",
+     "url": "https://hotels.ng/places/uncategorized/1987-nysc-permanent-orientation-camp-enugu",
+     "ok": true
+    }
+   ],
+   "directions": null,
+   "moved": null
+  },
+  "FC": {
+   "notes": [],
+   "directions": null,
+   "moved": null
+  },
+  "GM": {
+   "notes": [
+    {
+     "text": "Camp is located in Akko Local Government Area, shortly after the airport, near Amada.",
+     "quote": "The orientation camp is located shortly after the airport.",
+     "url": "https://www.facebook.com/Officialnyscgombe/videos/1793157408521543/",
+     "ok": true
+    },
+    {
+     "text": "A permanent camp is being built at Boltongo in Yamaltu Deba LGA, not yet complete.",
+     "quote": "appealed to the Gombe State government to expedite the completion of the permanent orientation camp in Boltongo community",
+     "url": "https://guardian.ng/news/nysc-appeals-to-gombe-govt-to-complete-orientation-camp/",
+     "ok": true
+    },
+    {
+     "text": "Camp used for Batch 'B' Stream II swearing-in is still the Temporary Orientation Camp at Amada, Akko LGA.",
+     "quote": "Temporary Orientation Camp, Amada, in Akko Local Government Area",
+     "url": "https://guardian.ng/news/nysc-appeals-to-gombe-govt-to-complete-orientation-camp/",
+     "ok": true
+    }
+   ],
+   "directions": null,
+   "moved": {
+    "text": "NYSC is pushing Gombe govt to finish a new permanent camp at Boltongo; current camp remains temporary.",
+    "quote": "NYSC appeals to Gombe govt to complete orientation camp",
+    "url": "https://guardian.ng/news/nysc-appeals-to-gombe-govt-to-complete-orientation-camp/",
+    "ok": true
+   }
+  },
+  "IM": {
+   "notes": [
+    {
+     "text": "Camp sits in Eziama Obaire, an area that's neither fully rural nor urban—don't expect fancy buildings.",
+     "quote": "The area is not exactly rural or urban. I’d say it’s in between.",
+     "url": "https://nyscwhatsappgroup.com/my-imo-nysc-camp-experience/",
+     "ok": true
+    },
+    {
+     "text": "Owerri, the state capital, is the nearby option for those wanting city life during camp.",
+     "quote": "If you’re the type of person that enjoys city life, Owerri the state capital is the place fo",
+     "url": "https://nyscwhatsappgroup.com/my-imo-nysc-camp-experience/",
+     "ok": true
+    },
+    {
+     "text": "Mammy market is the main hangout spot in camp, so budget for it.",
+     "quote": "Mammy market is the favorite spot so ensure to factor that in your camp budget.",
+     "url": "https://nyscwhatsappgroup.com/my-imo-nysc-camp-experience/",
+     "ok": true
+    }
+   ],
+   "directions": {
+    "text": "Travelers heading to Imo camp are advised to take a direct bus rather than connecting routes.",
+    "quote": "FOR THOSE OF YOU PREPARING TO JOURNEY TO IMO, IT'S PREFERABLE TO ENTER DIRECT BUS",
+    "url": "https://www.facebook.com/groups/434912575456082/posts/1220846740195991/",
+    "ok": true
+   },
+   "moved": null
+  },
+  "JG": {
+   "notes": [],
+   "directions": null,
+   "moved": null
+  },
+  "KD": {
+   "notes": [
+    {
+     "text": "Camp is a temporary site at Government College, located in Kurmin Mashi, Kaduna South LGA.",
+     "quote": "located at Kurmin Mashi – a community of Kaduna South Local Government Area of the State, as a temporary camp.",
+     "url": "https://www.facebook.com/NYSC.KADUNA73/posts/your-route-to-the-nysc-temporary-orientation-camp-government-college-kaduna-loca/1225545022948999/",
+     "ok": true
+    },
+    {
+     "text": "NYSC asked Kaduna govt for a permanent camp, iron bunk beds, and an ambulance, suggesting current gaps.",
+     "quote": "a permanent orientation camp, an ambulance, feeding during orientation and metal bunk beds with mattresses",
+     "url": "https://gazettengr.com/nysc-asks-kaduna-govt-to-provide-permanent-orientation-camp-stipends/",
+     "ok": true
+    }
+   ],
+   "directions": null,
+   "moved": null
+  },
+  "KN": {
+   "notes": [],
+   "directions": null,
+   "moved": null
+  },
+  "KT": {
+   "notes": [
+    {
+     "text": "Camp shares its entrance with the state-owned Youth Craft Village, raising security concerns.",
+     "quote": "shares access with the state-owned Youth Craft Village and other government facilities",
+     "url": "https://www.premiumtimesng.com/news/more-news/888067-nysc-raises-security-concerns-over-shared-access-to-katsina-orientation-camp.html",
+     "ok": true
+    },
+    {
+     "text": "Male hostels are in poor condition while female hostels have had some renovation.",
+     "quote": "while some renovation work has been carried out on the female hostels, the male hostels remain in poor condition",
+     "url": "https://www.premiumtimesng.com/news/more-news/888067-nysc-raises-security-concerns-over-shared-access-to-katsina-orientation-camp.html",
+     "ok": true
+    },
+    {
+     "text": "Camp needs (food, drinks, supplies) are sold at an on-site market called Mami Market.",
+     "quote": "There is the large market operated by the locals popularly called \"Mami Market\" where all camp needs are sold, including food and drinks.",
+     "url": "https://hotels.ng/places/government-building/1983-nysc-permanent-orientation-camp-katsina",
+     "ok": true
+    }
+   ],
+   "directions": {
+    "text": "The camp is located along the Katsina–Daura Road.",
+    "quote": "located along the Katsina–Daura Road",
+    "url": "https://www.premiumtimesng.com/news/more-news/888067-nysc-raises-security-concerns-over-shared-access-to-katsina-orientation-camp.html",
+    "ok": true
+   },
+   "moved": null
+  },
+  "KB": {
+   "notes": [
+    {
+     "text": "Camp area (Basuara) is considered exposed and insecure; community reportedly can't adequately secure it.",
+     "quote": "this place is exposed and the community harbouring the camp cannot give adequate security for the camp",
+     "url": "https://gazettengr.com/nysc-begs-kebbi-to-relocate-orientation-camp-to-birnin-kebbi-for-corps-members-safety/",
+     "ok": true
+    },
+    {
+     "text": "Current Basuara camp replaced the permanent Dakingari camp, which was abandoned due to insecurity.",
+     "quote": "The orientation camp was relocated from Dakingari, the permanent orientation camp in the Suru Local Government Area, to Basuara due to insecurity in the area.",
+     "url": "https://gazettengr.com/nysc-begs-kebbi-to-relocate-orientation-camp-to-birnin-kebbi-for-corps-members-safety/",
+     "ok": true
+    },
+    {
+     "text": "Officials cite poor camp facilities, lack of corps lodges, and a low state stipend of N2,000 per month.",
+     "quote": "lack of corps lodges, poor facilities at orientation camps, and the N2,000 monthly stipend paid by the state government",
+     "url": "https://gazettengr.com/nysc-begs-kebbi-to-relocate-orientation-camp-to-birnin-kebbi-for-corps-members-safety/",
+     "ok": true
+    }
+   ],
+   "directions": null,
+   "moved": {
+    "text": "NYSC has asked Kebbi government to move the camp again, from Basuara to Birnin Kebbi metropolis, for safety.",
+    "quote": "NYSC requested to relocate this camp to Birnin Kebbi metropolis for the safety of the corps members",
+    "url": "https://gazettengr.com/nysc-begs-kebbi-to-relocate-orientation-camp-to-birnin-kebbi-for-corps-members-safety/",
+    "ok": true
+   }
+  },
+  "KG": {
+   "notes": [
+    {
+     "text": "Camp is in a colder part of Kogi State, located in the Yoruba-speaking area.",
+     "quote": "The Orientation camp is located in the colder part of Kogi state, in the Yoruba speaking part of the state.",
+     "url": "https://nysckogistate.wordpress.com/about-asaya-kabba-camp/",
+     "ok": true
+    },
+    {
+     "text": "Camp is surrounded by hills linked to local folklore.",
+     "quote": "The camp is overlooked by a number of hills that are connected to local folk tale",
+     "url": "https://nysckogistate.wordpress.com/about-asaya-kabba-camp/",
+     "ok": true
+    }
+   ],
+   "directions": {
+    "text": "From anywhere in Kogi State, take a bus to Kabba, get off at the last stop, then take a bike to camp.",
+    "quote": "From anywhere in Kogi State, board a bus going to Kabba, alight at the last bus stop, and board a bike to the NYSC orientation camp.",
+    "url": "https://www.allsubjectsmadesimple.com.ng/2024/09/nysc-state-codes-addresses-and-directions-to-all-orientation-camps-in-nigeria.html",
+    "ok": true
+   },
+   "moved": null
+  },
+  "KW": {
+   "notes": [
+    {
+     "text": "Camp is at a temporary site (Kwara State Polytechnic); the permanent camp is at Yikpata, Edu LGA.",
+     "quote": "NYSC Orientation Camp (Temporary Site Address) Kwara State Polytechnic, Along Old Jebba Road, Ilorin, Kwara State, Nigeria.",
+     "url": "https://nysckwara360.ng/",
+     "ok": true
+    },
+    {
+     "text": "Permanent orientation camp location is Yikpata, Edu Local Government Area, Kwara State.",
+     "quote": "NYSC Permanent Orientation Camp, Yikpata, Edu Local Government Area, Kwara State.",
+     "url": "https://intercity.ng/blog/nysc-orientation-camp-locations-nigeria",
+     "ok": true
+    }
+   ],
+   "directions": null,
+   "moved": {
+    "text": "Kwara govt temporarily moved the permanent camp to the Polytechnic campus over security concerns.",
+    "quote": "The Kwara Government has temporarily relocated the NYSC Permanent Orientation Camp to the state Polytechnic campus along Old Jebba Road, Ilorin",
+    "url": "https://www.facebook.com/ReportYourself/posts/nysc-relocates-orientation-camps-in-kwara-kaduna-others-over-security-concerns-s/1501956674619177/",
+    "ok": true
+   }
+  },
+  "LA": {
+   "notes": [],
+   "directions": null,
+   "moved": {
+    "text": "Lagos plans a new permanent NYSC orientation camp; government said work would start on this proposed site.",
+    "quote": "work will begin earnestly on the proposed site of the ultra-modern NYSC Permanent Orientation Camp",
+    "url": "https://www.facebook.com/guardianng/posts/governor-babajide-sanwo-olu-has-announced-that-lagos-state-will-allocate-an-addi/1369560051198088/",
+    "ok": true
+   }
+  },
+  "NS": {
+   "notes": [],
+   "directions": null,
+   "moved": null
+  },
+  "NG": {
+   "notes": [
+    {
+     "text": "Current camp is one of the oldest and most challenging orientation facilities in Nigeria.",
+     "quote": "the new camp would replace one of the oldest and most challenging orientation facilities in the country",
+     "url": "https://www.tvcnews.tv/niger-govt-pledges-new-nysc-orientation-camp-within-12-months/",
+     "ok": true
+    },
+    {
+     "text": "The present facility is housed in Abubakar Dada Secondary School and suffers infrastructural decay.",
+     "quote": "currently located within Abubakar Dada Secondary School in Paiko, is plagued by infrastructural decay",
+     "url": "https://www.facebook.com/tvcnewsng/posts/niger-govt-pledges-new-nysc-orientation-camp-within-12-monthsthe-niger-state-gov/1475852627909204/",
+     "ok": true
+    },
+    {
+     "text": "A new camp planned nearby will have solar power, a 3,000-seat hall and 41 hostel blocks.",
+     "quote": "solar -powered, off-grid sustainability, a 3,000-capacity hall, 41 hostel blocks",
+     "url": "https://www.facebook.com/AfricaIndependentTelevision/videos/niger-state-govt-finally-begin-work-on-nysc-permanent-orientation-camp/1367490568090452/",
+     "ok": true
+    }
+   ],
+   "directions": null,
+   "moved": {
+    "text": "Niger State is building a new permanent NYSC camp in Paiko, promised within 12 months.",
+    "quote": "The Niger State Government has pledged to deliver a new permanent orientation camp for the National Youth Service Corps (NYSC) within the next 12 months",
+    "url": "https://www.tvcnews.tv/niger-govt-pledges-new-nysc-orientation-camp-within-12-months/",
+    "ok": true
+   }
+  },
+  "OG": {
+   "notes": [],
+   "directions": null,
+   "moved": null
+  },
+  "OD": {
+   "notes": [],
+   "directions": {
+    "text": "Camp is located off Ado Ekiti-Ikare Road in Ikare-Akoko, Ondo.",
+    "quote": "located at Off Ado Ekiti-Ikare Road, Ikare-Akoko, Ondo",
+    "url": "https://www.nairaland.com/6248557/nysc-permanent-orientation-camp-ondo/2",
+    "ok": true
+   },
+   "moved": null
+  },
+  "OS": {
+   "notes": [
+    {
+     "text": "The camp recently underwent a full renovation and transformation, described as a new look.",
+     "quote": "This video showcases the complete transformation and renovation of the National Youth Service Corps (NYSC) Permanent Orientation Camp in Ede",
+     "url": "https://www.facebook.com/nyscosun.statenew/videos/a-new-look-a-renewed-purpose-watch-the-transformation-of-nysc-permanent-orientat/2756992867989611/",
+     "ok": true
+    }
+   ],
+   "directions": null,
+   "moved": null
+  },
+  "OY": {
+   "notes": [],
+   "directions": null,
+   "moved": null
+  },
+  "PL": {
+   "notes": [],
+   "directions": null,
+   "moved": {
+    "text": "Other sources list Plateau's permanent camp as Mangu LGA, but the current official camp is a temporary site in Jos South LGA.",
+    "quote": "The NYSC Permanent Orientation Camp in Plateau State is located at Mangu, Mangu Local Government Area, Plateau State.",
+    "url": "https://www.facebook.com/Calabargist/posts/how-to-locate-nysc-orientation-camps-in-all-36-states-fct-simple-guide-you-shoul/1585529123577788/",
+    "ok": true
+   }
+  },
+  "RV": {
+   "notes": [
+    {
+     "text": "Corps members report plentiful water supply, even enough to wash directly in the bathroom.",
+     "quote": "water rush in the bathroom,we do even wash in the bathroom enjoy urself dear.welcome to rivers",
+     "url": "https://www.facebook.com/groups/nysconlinecommunity/posts/4921349434642083/",
+     "ok": true
+    }
+   ],
+   "directions": null,
+   "moved": null
+  },
+  "SO": {
+   "notes": [
+    {
+     "text": "Mami Market inside camp run by locals sells food, drinks, and other camp needs.",
+     "quote": "There is the large market operated by the locals popularly called \"Mami Market\" where all camp needs are sold, including food and drinks.",
+     "url": "https://hotels.ng/places/government-building/1982-nysc-permanent-orientation-camp-sokoto",
+     "ok": true
+    },
+    {
+     "text": "Expect very hot weather; one corps member called it the famous Sokoto heat.",
+     "quote": "The first thing that hit me was the thought of the famous Sokoto heat.",
+     "url": "https://nyscwhatsappgroup.com/my-sokoto-nysc-camp-story-and-key-lessons/",
+     "ok": true
+    },
+    {
+     "text": "Camp was renovated in 2026; multipurpose hall expanded to fit 3,000 corps members, but mattresses and solar lighting still needed.",
+     "quote": "the expansion of the multipurpose hall to accommodate 3,000 corps members, would smoothen activities... providing mattresses, solar lighting, a Hilux vehicle",
+     "url": "https://realnewsmagazine.net/sokoto-nysc-camp-gets-total-overhaul-as-gov-aliyu-raises-corps-allowances/",
+     "ok": true
+    }
+   ],
+   "directions": null,
+   "moved": null
+  },
+  "TR": {
+   "notes": [
+    {
+     "text": "Camp is along Jalingo–Wukari road, about 15 km from Jalingo town.",
+     "quote": "located along Jalingo Wukari road about 15 km from Jalingo",
+     "url": "https://www.wikidata.org/wiki/Q114729736",
+     "ok": true
+    },
+    {
+     "text": "Camp is about 5 km from the airport.",
+     "quote": "5 kilometers from the airport",
+     "url": "https://www.wikidata.org/wiki/Q114729736",
+     "ok": true
+    },
+    {
+     "text": "Corps members' hostel accommodation is well spaced out.",
+     "quote": "the coopers accommodation well spaced",
+     "url": "https://www.wikidata.org/wiki/Q114729736",
+     "ok": true
+    }
+   ],
+   "directions": {
+    "text": "Camp is located on the Jalingo–Wukari road, around 15 km from Jalingo.",
+    "quote": "located along Jalingo Wukari road about 15 km from Jalingo",
+    "url": "https://www.wikidata.org/wiki/Q114729736",
+    "ok": true
+   },
+   "moved": null
+  },
+  "YB": {
+   "notes": [],
+   "directions": null,
+   "moved": null
+  },
+  "ZM": {
+   "notes": [],
+   "directions": null,
+   "moved": {
+    "text": "Zamfara's permanent camp is at Tsafe LGA, but corps members currently use a temporary camp in Lalan, Gusau.",
+    "quote": "NYSC Permanent Orientation Camp, Beside FRSC Office, Tsafe Local Government Area, Zamfara State.",
+    "url": "https://punchng.com/full-list-nysc-orientation-camp-addresses-across-nigeria/",
+    "ok": true
+   }
+  }
+ }
+}

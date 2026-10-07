@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nysc-companion-ng.vercel.app/sitemap.xml
