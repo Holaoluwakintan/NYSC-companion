@@ -1,7 +1,7 @@
 // POST /api/ask {q, history?, device?, ctx?} -> {answer, model}
 // Gemini via the server key (never exposed). Rate limits: per device+IP per day, plus a global daily cap, kept in Supabase (nysc.ai_usage).
 const crypto = require('crypto');
-const MODELS = (process.env.GEMINI_MODELS || 'gemini-3.6-flash,gemini-flash-lite-latest').split(',');
+const MODELS = (process.env.GEMINI_MODELS || 'gemini-3.6-flash,gemini-3.1-flash-lite,gemini-flash-lite-latest').split(',');
 const PER_DAY = +(process.env.AI_PER_DAY || 20);
 const GLOBAL_DAY = +(process.env.AI_GLOBAL_DAY || 1500);
 const SUPA = (process.env.SUPABASE_URL || 'https://rlbrhpjljjgpqpqjrpkc.supabase.co').replace(/\/+$/, '');
@@ -11,7 +11,7 @@ const cool = new Map(); // model -> time until which we skip it (after a 429 quo
 const SYSTEM = `You are "Corper Guide", the friendly AI helper inside NYSC Companion, an independent app for Nigerian National Youth Service Corps members. You are NOT the NYSC and not affiliated with it.
 Facts you can rely on (checked Oct 7, 2026):
 - 2026 Batch C Stream II orientation: reception/registration opens Wednesday Nov 4, 2026; registration closes midnight Friday Nov 6 (swearing-in Nov 6); closing ceremony Tuesday Nov 24, 2026. Held in all 36 states + FCT (37 camps).
-- 2026 Batch C Stream I camp ran Sept 30 – Oct 20, 2026.
+- 2026 Batch C Stream I camp runs Sept 30 – Oct 20, 2026.
 - Federal monthly allowance ("allawee"): ₦77,000, the same in every state, paid since March 2025 (raised from ₦33,000 under the Minimum Wage Amendment Act 2024). Some states/PPAs pay extra stipends.
 - Monthly clearance confirms you are at your PPA; missing it can mean not being paid for that month. LGAs set the window (often the first days of the month); the dashboard on portal.nysc.org.ng shows it.
 - Group CDS is one day a week (set by the LGA) and compulsory.
@@ -38,7 +38,7 @@ async function gemini(f, model, contents, key) {
   try {
     const r = await f(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`, {
       method: 'POST', signal: ctl.signal, headers: { 'Content-Type': 'application/json', 'x-goog-api-key': key },
-      body: JSON.stringify({ systemInstruction: { parts: [{ text: SYSTEM }] }, contents, generationConfig: { temperature: 0.4, maxOutputTokens: 700 },
+      body: JSON.stringify({ systemInstruction: { parts: [{ text: SYSTEM }] }, contents, generationConfig: { temperature: 0.4, maxOutputTokens: 2048 } /* thinking models spend output tokens on thinking first; 700 could end empty */,
         safetySettings: ['HARM_CATEGORY_HARASSMENT', 'HARM_CATEGORY_HATE_SPEECH', 'HARM_CATEGORY_SEXUALLY_EXPLICIT', 'HARM_CATEGORY_DANGEROUS_CONTENT'].map(c => ({ category: c, threshold: 'BLOCK_MEDIUM_AND_ABOVE' })) }),
     });
     if (!r.ok) return { err: r.status };
@@ -74,6 +74,7 @@ function handler(f) {
       if ((cool.get(model) || 0) > Date.now() && model !== MODELS[MODELS.length - 1]) continue;
       const out = await gemini(f, model.trim(), contents, key);
       if (out.err === 429) cool.set(model, Date.now() + 15 * 60000);
+      else if (out.err === 503) cool.set(model, Date.now() + 2 * 60000); // 'high demand': skip it briefly instead of paying the wait on every question
       if (out.text) return res.status(200).json({ answer: out.text, model: model.trim(), left: Math.max(0, PER_DAY - (lim.n || 0)) });
       if (out.blocked) return res.status(200).json({ answer: 'I can\'t help with that one. Ask me anything about camp, PPA, CDS, clearance or corper life. 🙂', model: model.trim() });
     }

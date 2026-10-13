@@ -36,3 +36,10 @@ Dates/allowance: src/data/facts.ts (each fact has sources + verified flag). Camp
 
 ## Monetisation (OFF)
 src/config.ts FLAGS.ads / FLAGS.premium. AdSlot renders nothing while ads=false; Premium shows "Coming soon".
+
+
+## Update 2026-10-14
+- Vercel project `nysc-companion` now lives on Michael's team `michael-380d` (team_Z8w5vQEijLwxTPREwdQDqCe8). `deploy.py` defaults to it.
+- Build + deploy: `cd app && npm ci && npm run build && npm test`, then `python3 deploy.py` (needs `VERCEL_TOKEN`).
+- Env vars on Vercel (names only): `GEMINI_API_KEY`, `SUPABASE_SECRET_KEY`, `AI_SALT`; optional `GEMINI_MODELS`, `AI_PER_DAY` (default 20), `AI_GLOBAL_DAY` (default 1500), `SUPABASE_URL`.
+- Health-check changes: model fallback 3.6-flash → 3.1-flash-lite → flash-lite-latest, 503 cooldown, larger output cap; Ask page shows the 20-a-day limit and how many questions are left.

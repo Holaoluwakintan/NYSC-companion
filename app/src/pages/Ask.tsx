@@ -28,6 +28,7 @@ export default function Ask() {
   const [msgs, setMsgs] = useState<Msg[]>(() => { try { return JSON.parse(localStorage.getItem(KEY) || '[]'); } catch { return []; } });
   const [q, setQ] = useState('');
   const [busy, setBusy] = useState(false);
+  const [left, setLeft] = useState<number | null>(null); // questions left today (server count; health check 2026-10-14)
   const end = useRef<HTMLDivElement>(null);
   useEffect(() => { try { localStorage.setItem(KEY, JSON.stringify(msgs.slice(-30))); } catch { /* */ } end.current?.scrollIntoView({ behavior: 'smooth', block: 'end' }); }, [msgs, busy]);
   const send = async (text: string) => {
@@ -41,6 +42,7 @@ export default function Ask() {
       const j = await r.json().catch(() => ({}));
       if (!r.ok) throw new Error(j.error || 'Corper Guide is busy. Try again in a minute.');
       setMsgs(m => [...m, { r: 'ai', t: j.answer }]);
+      if (typeof j.left === 'number') setLeft(j.left);
     } catch (e: any) { setMsgs(m => [...m, { r: 'ai', t: e.message || 'Network problem. Try again.', err: true }]); }
     finally { setBusy(false); }
   };
@@ -59,6 +61,7 @@ export default function Ask() {
       {msgs.map((m, i) => m.r === 'me' ? <div key={i} class="bubble me">{m.t}</div> : <div key={i} class="bubble ai prose" style={m.err ? { color: 'var(--red)' } : undefined} dangerouslySetInnerHTML={{ __html: md(m.t) }} />)}
       {busy && <div class="bubble ai" aria-label="Corper Guide is typing"><span class="dots"><i /><i /><i /></span></div>}
       <p class="tiny" style={{ textAlign: 'center', margin: '14px 6px 0' }}>⚠️ {DISCLAIMER_AI}</p>
+      <p class="tiny" style={{ textAlign: 'center', margin: '6px 6px 0' }}>Corper Guide is free: up to 20 questions a day on each phone{left !== null ? ` · ${left} left today` : ''}. The count starts again every night. Checklist, camp guides and FAQ have no limit.</p>
       <div ref={end} style={{ scrollMarginBottom: 'calc(var(--nav) + 84px)' }} />
     </div>
     <form class="composer" onSubmit={e => { e.preventDefault(); send(q); }}>
